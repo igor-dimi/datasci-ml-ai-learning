@@ -1,2 +1,2 @@
 # datasci-ml-ai-learning
-learning resources for data sci ml ai 
+list of learning resources for data sci ml ai [link](https://igor-dimi.github.io/datasci-ml-ai-learning/index.html) 
